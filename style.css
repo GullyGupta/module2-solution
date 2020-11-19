@@ -113,7 +113,6 @@ float: left;
     background-color: rgb(155, 35, 75);
 }
 .f3{
-    top: 12px;
     border-left:5px solid black;
     border-bottom:5px solid black;
     margin-left:auto;
@@ -123,19 +122,15 @@ float: left;
     background-color: rgb(99, 20, 173);
 }
 .first{
-    overflow:auto;
     margin-left: 3%;
     margin-right: 2%;
     border: 5px solid black;
     float:left;
-    height:320px;
     width:30%;
     font-size:30px;
     background-color: grey;
 }
 .second{
-    overflow:auto;
-    height:320px;
     border: 5px solid black;
     float:left;
     margin-right: 2%;
@@ -144,8 +139,6 @@ float: left;
     background-color: grey;
 }
 .third{
-    overflow:auto;
-    height:320px;
     margin-right: 2%;
     border: 5px solid black;
     float:left;
